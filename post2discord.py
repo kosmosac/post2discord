@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # post2discord.py
-# A smple Python script to post/update a message on Discord via Webhook
+#
+# A simple Python script to post/update a message on Discord via Webhook
+# Author: kosmos.ac <me@kosmos.ac>
 #
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
